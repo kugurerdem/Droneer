@@ -11,9 +11,9 @@ We did not made any changes on the project since we made the game executable on 
 # Contributions
 
 
-Baykam Say: Worked on the Drones package, designed the core logic of the drones. Made most of the example drones.
-Alp Üneri: Integrating of the components of the project. Also worked on the menus.
-Zübeyir Bodur: Improvement of the IDE including features like "undo-redo", hot-keys, warning messages and improvement of the menu UI design.
-Uğur Erdem Seyfi: The main core of the IDE with the features of "open", "save", "compile", "save as". 
-Ege Kaan Gürkan: Mainly worked on the menus.
-Agil Aliyev: Wrote some of the text used within the HelpMenu class.
+Baykam Say: Worked on the Drones package, designed the core logic of the drones. Made most of the example drones. <br/>
+Alp Üneri: Integrating of the components of the project. Also worked on the menus. <br/>
+Zübeyir Bodur: Improvement of the IDE including features like "undo-redo", hot-keys, warning messages and improvement of the menu UI design. <br/>
+Uğur Erdem Seyfi: The main core of the IDE with the features of "open", "save", "compile", "save as". <br/> 
+Ege Kaan Gürkan: Mainly worked on the menus. <br/>
+Agil Aliyev: Wrote some of the text used within the HelpMenu class. <br/>
